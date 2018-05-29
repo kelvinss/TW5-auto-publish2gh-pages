@@ -1,0 +1,12 @@
+title: $:/tags/SideBar
+caption: Contents
+list-after: $:/core/ui/SideBar/Open
+type: text/vnd.tiddlywiki
+
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable 'TableOfContents'>>
+
+</div>
+
