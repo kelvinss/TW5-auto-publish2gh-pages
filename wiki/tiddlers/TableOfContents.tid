@@ -1,4 +1,5 @@
-title: $:/tags/SideBar
+title: TableOfContents
+tags: $:/tags/SideBar
 caption: Contents
 list-after: $:/core/ui/SideBar/Open
 type: text/vnd.tiddlywiki
